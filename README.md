@@ -49,9 +49,13 @@ If you have any feedback or would like to request support, we'd love to hear fro
 
 Contributions are welcome, and are greatly appreciated! Details about how to contribute [are also outlined in our documentation](http://tabbycat.readthedocs.io/en/latest/about/contributing.html).
 
-## ©️ Licence
+Monetary donations are much appreciated and help us to continue the development and maintenance of Tabbycat. We suggest that tournaments donate at the level of $1 Australian dollar per team; especially if your tournament is run for profit or fund-raising purposes. More details [are available in our documentation](http://tabbycat.readthedocs.io/en/latest/about/licence.html).
 
-We haven't released Tabbycat under an open-source licence, so there is no formal and general right to use this software. Nonetheless, you're welcome to freely use Tabbycat to help run a debating tournament. However, if your tournament is run as a for-profit or for-fundraising activity a donation to Tabbycat's maintainers is required. More details [are available in our licence information](http://tabbycat.readthedocs.io/en/latest/about/licence.html).
+## ©️ License
+
+Tabbycat is licensed under the terms of the [GNU General Public License (v3)](https://choosealicense.com/licenses/gpl-3.0/). You may copy, distribute, and modify this software; however note that this license requires (amongst other provisions) that any  modifications you make to Tabbycat must be made public.
+
+If you wish to modify Tabbycat in a proprietary fashion we (the developers) are open to negotiating a dual-license for this purpose. Please [contact us](http://tabbycat.readthedocs.io/en/latest/authors.html#authors) if this is the case.
 
 ## ✏️ Authors
 

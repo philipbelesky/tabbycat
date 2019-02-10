@@ -2,7 +2,7 @@
   "name": "tabbycat",
   "description": "Debating tabulation software for two-team parliamentary formats",
   "repository": "https://github.com/TabbycatDebate/tabbycat",
-  "license": "UNLICENSED",
+  "license": "GPL-3.0-or-later",
   "engines": {
     "node": "8.11.x",
     "npm": "6.3.x"
